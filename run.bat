@@ -1,0 +1,1 @@
+python.exe img_extractor_gui.py
