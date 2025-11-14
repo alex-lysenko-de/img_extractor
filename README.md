@@ -3,7 +3,7 @@
 
 ### Interactive & Scriptable Image Segmentation Using Geometric Grouping
 
-![Example](.imgs/1.png)
+![demo.gif](imgs/1.gif)
 
 ## Overview
 
@@ -114,7 +114,7 @@ python img_extractor_gui.py
 ```
 
 ### GUI Workflow
-
+![Example](imgs/1.png)
 1. **Load Image**
 2. Click **Find and Group Components**
 3. Choose a **strategy** and **padding**
@@ -187,3 +187,7 @@ Each file contains a clean cut-out with transparency.
 
 MIT License.
 Feel free to use this tool in commercial or personal projects.
+
+-----
+
+[Watch on YouTube](https://youtu.be/yZQzde00p9E)
