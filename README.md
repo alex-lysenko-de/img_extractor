@@ -190,4 +190,4 @@ Feel free to use this tool in commercial or personal projects.
 
 -----
 
-[Watch on YouTube](https://youtu.be/yZQzde00p9E)
+[Watch on YouTube](https://youtu.be/GxI3rI_DZA8)
